@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.ae8ffaa2.js",
-    "index.html": "/index.html",
-    "main.ae8ffaa2.js.map": "/static/js/main.ae8ffaa2.js.map"
+    "main.js": "/movieService/static/js/main.ae8ffaa2.js",
+    "index.html": "/movieService/index.html",
+    "main.ae8ffaa2.js.map": "/movieService/static/js/main.ae8ffaa2.js.map"
   },
   "entrypoints": [
     "static/js/main.ae8ffaa2.js"
